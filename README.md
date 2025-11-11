@@ -36,7 +36,7 @@ It utilizes Python’s modern `pathlib` module along with `os` for efficient and
 Run the Python script
 
 bash
-Copy code
+Copy code 
 python file_manager.py
 Choose an option from the menu
 
